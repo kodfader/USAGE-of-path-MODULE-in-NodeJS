@@ -1,0 +1,19 @@
+{
+  "name": "path-module",
+  "version": "1.0.0",
+  "description": "path-module-node js with usage examples and demonestrations",
+  "main": "path_examples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodfader/USAGE-of-path-MODULE-in-NodeJS.git"
+  },
+  "author": "Amro Soliman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodfader/USAGE-of-path-MODULE-in-NodeJS/issues"
+  },
+  "homepage": "https://github.com/kodfader/USAGE-of-path-MODULE-in-NodeJS#readme"
+}
